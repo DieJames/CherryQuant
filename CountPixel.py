@@ -37,7 +37,7 @@ class Window(Frame):
     def client_upload(self):
         imageDir = filedialog.askdirectory(initialdir="/",  title='Please select a directory')
         print(imageDir)
-        out = open(imageDir + "/resutls.txt", "w")
+        out = open(imageDir + "/results.txt", "w")
         header = 'sample' + '\t' + "pixels"
         out.write(header + '\n')
         image_path_list = []
