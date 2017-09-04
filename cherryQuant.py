@@ -1,7 +1,4 @@
 #!/usr/bin/env python
-
-
-
 import os, os.path
 import cv2
 import numpy as np
