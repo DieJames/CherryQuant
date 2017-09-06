@@ -27,10 +27,15 @@ Python 3, download python [here](https://www.python.org/downloads/)
 To run simply double click on the CountPixel.py file. It should automatically initiate python and open a window with a upload button. Some problems occur if both python 2 and python 3 is installed. If this is the case open the command prompt and type 
 ```
 #check python version
+
 C:\Users\Person>py --version
+
 #the output should say python 3 i.e.
+
 python 3.6.2
+
 #Now run the program from command line
+
 C:\Users\Person>py cherryQuant.py
 
 ```
