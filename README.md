@@ -17,7 +17,7 @@ Python 3, download python [here](https://www.python.org/downloads/)
    2.4. Type the following in the windows command prompt 
    ```
    py -m pip install numpy  
-   py -m pip install "openCV-python
+   py -m pip install openCV-python
    
    ``` 
  3. The installation is done close the command prompt. 
