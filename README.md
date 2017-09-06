@@ -16,8 +16,8 @@ Python 3, download python [here](https://www.python.org/downloads/)
    2.3. If python is present type exit() to exit python. 
    2.4. Type the following in the windows command prompt 
    ```
-   py -m pip install numpy  
-   py -m pip install openCV-python
+   C:\Users\Person>py -m pip install numpy  
+   C:\Users\Person>py -m pip install openCV-python
    
    ``` 
  3. The installation is done close the command prompt. 
