@@ -43,6 +43,6 @@ C:\Users\Person>py cherryQuant.py
 
 A text file will be created in the same directory as the image files. Open the text file with excell to access the data. Data can be processed with any standard dataframe and analysis software like graphpad or R. 
 
-## testing the software
+## Testing the software
 
 Unzip the test folder to test/. Initiate cherryQuant and choose one of the default fluorescence channels. Run the software and inspect the output. 
