@@ -14,7 +14,9 @@ Python 3, download python [here](https://www.python.org/downloads/)
    2.1. Navigate to command prompt in windows: Search cmd and hit enter
    
    2.2. Type py and hit enter. This should open python and it should be python 3. 
-   2.3. If python is present type exit() to exit python. 
+   
+   2.3. If python is present type exit() to exit the python interpreter. 
+   
    2.4. Type the following in the windows command prompt 
    ```
    C:\Users\Person>py -m pip install numpy  
