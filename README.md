@@ -9,7 +9,8 @@ Python 3, download python [here](https://www.python.org/downloads/)
  ## installation
  
 1. Download the tarball and extract in the desired location, the tarball can be deleted. 
-2. Double click on setup.bat. This installs the required libraries, if this does not work follow the instructions below
+2. Double click on setup.bat. This installs the required libraries, if this does not work follow the instructions below:
+
    2.1. Navigate to command prompt in windows: Search cmd and hit enter
    
    2.2. Type py and hit enter. This should open python and it should be python 3. 
