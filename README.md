@@ -1,12 +1,12 @@
 # CherryQuant
 
-Prototype pixel counting software to quant red fluorescence from image files. This software quantifies the **total** flourescence intensity within image files. cherryQuant supports default RGB channels of red, green and blue as well as an option for a custom RGB range.
+Prototype pixel counting software and basic graphical user interface to quant red, blue or green fluorescence from image files. This software quantifies the **total** flourescence intensity within image files. cherryQuant supports default RGB channels of red, green and blue as well as an option for a custom RGB range. 
 
 ## Requirements 
 Python 3, download python [here](https://www.python.org/downloads/)
  This software was tested on windows 10
  
- ## installation
+ ## Installation
  
 1. Download the tarball and extract in the desired location, the tarball can be deleted. 
 2. Double click on setup.bat. This installs the required libraries, if this does not work follow the instructions below:
